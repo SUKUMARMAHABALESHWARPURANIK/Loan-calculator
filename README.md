@@ -1,6 +1,5 @@
 # Loan-calculator
 
-Certainly, here's a description you can use for your GitHub repository for your Loan Calculator website built with HTML, CSS, and JavaScript:
 
 💰 Loan Calculator - Empowering Financial Planning
 
