@@ -1,0 +1,10 @@
+This project is helpful for 
+calculating the basic+DOM loan amount as well as how much is you have 
+intrest for monthly yearly  and intrest calculation
+
+example:10000 8% interest
+years to repay 3
+monthly:313.36
+yearly:11281.09
+total payment:1281.09
+
